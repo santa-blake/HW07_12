@@ -69,7 +69,7 @@ object UsingXML_S extends App {
 
 
 //  def getBookFromEl(el:Node): Book = {
-//    new Book {
+//   new Book {
 //      val category = (el \ "@category").text
 //      val title = (el \ "title").text
 //      val titleLang = (el \ "title" \ "@lang").text
