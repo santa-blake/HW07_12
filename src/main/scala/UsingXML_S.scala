@@ -25,10 +25,31 @@ object UsingXML_S extends App {
 
   def getStationInfoFromEl(el:Node): station = {
     new station {
-      val station_european_code = (el \ "station_european_code").text.toInt
-      val station_local_code = (el \ "station_local_code").text.toInt
-      val station_name = (el \ "station_local_code").text
-      val station_description = (el \ "station_description").text
+      val station_european_code: Int = (el \ "station_european_code").text.toInt
+      val station_local_code: Int = (el \ "station_local_code").text.toInt
+      val station_name: String = (el \ "station_local_code").text
+      val station_description: String = (el \ "station_description").text
+      val station_start_date: String = (el \ "station_start_date").text
+      val station_latitude_decimal_degrees: String = (el \ "station_latitude_decimal_degrees").text
+      val station_longitude_decimal_degrees: String = (el \ "station_longitude_decimal_degrees").text
+      val station_latitude_dms: String = (el \ "station_latitude_dms").text
+      val station_longitude_dms: String = (el \ "station_longitude_dms").text
+      val station_altitude: String = (el \ "station_altitude").text
+      val type_of_station: String = (el \ "type_of_station").text
+      val station_type_of_area: String = (el \ "station_type_of_area").text
+      val station_characteristic_of_zone: String = (el \ "station_characteristic_of_zone").text
+      val main_emission_source: String = (el \ "main_emission_source").text
+      val station_area_of_representativeness: String = (el \ "station_area_of_representativeness").text
+      val station_city: String = (el \ "station_city").text
+      val population: String = (el \ "station_population").text
+      val street_name: String = (el \ "street_name").text
+      val street_type: String = (el \ "street_type").text
+      val number_of_vehicles: String = (el \ "number_of_vehicles").text
+      val station_lorry_percentage: String = (el \ "station_lorry_percentage").text
+      val station_traffic_speed: String = (el \ "station_traffic_speed").text
+      val station_street_width: String = (el \ "station_street_width").text
+      val monitoring_obj: String = (el \ "monitoring_obj").text
+      val meteorological_parameter: String = (el \ "meteorological_parameter").text
     }
   }
   // val station1 = getStationInfoFromEl(stations(0))
