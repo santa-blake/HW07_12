@@ -1,5 +1,5 @@
+import scala.xml.XML.loadFile
 import scala.xml.{Node, NodeSeq}
-import scala.xml.XML.{loadFile, save}
 
 object UsingXML_S extends App {
 
@@ -64,7 +64,10 @@ object UsingXML_S extends App {
 //    _ \\ "@category" exists (_.text == "web")
 // val stationsNew = airbase \\ "station_info" filter { _ \\ "@category" exists (_.text == "web")}
   //  //so we can save our book collection by adding some parent element for example root
-  save("./src/resources/IS_new.xml", <root>{stationInfo}</root>, xmlDecl = true)
+
+
+  //       save("./src/resources/IS_new.xml", <root>{stationInfo}</root>, xmlDecl = true)
+
 }
 
 
