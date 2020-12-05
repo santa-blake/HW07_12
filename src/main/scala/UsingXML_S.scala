@@ -63,7 +63,7 @@ object UsingXML_S extends App {
 //  val stationsNew = airbase \\ "country" filter {
 //    _ \\ "@category" exists (_.text == "web")
 // val stationsNew = airbase \\ "station_info" filter { _ \\ "@category" exists (_.text == "web")}
-  //  //so we can save our book colllection by adding some parent element for example root
+  //  //so we can save our book collection by adding some parent element for example root
   save("./src/resources/IS_new.xml", <root>{stationInfo}</root>, xmlDecl = true)
 }
 
