@@ -3,7 +3,7 @@ import scala.xml.{Node, NodeSeq}
 
 object UsingXML_S extends App {
 
-  val airbase = loadFile("./src/resources/IS_meta.xml") // built in xml loading AND parsing
+  val airbase = loadFile("./src/resources/IS_meta.xml")
   //  println(airbase)
 
   val countries = airbase \ "country"
