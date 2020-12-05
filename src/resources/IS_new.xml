@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+					IS0008A
+					8A
+					Akureyri Tryggvabraut
+					Particulate Matter Monitoring, PM 10
+					IS
+					-
+					-
+					-
+					20-1-2005
+					65.688890
+					-18.100000
+					+065°41'20&quot;
+					-018°06'00&quot;
+					6
+					Traffic
+					urban
+					commercial
+					Road transport
+					15.000
+					AKUREYRI
+					17.000
+					Tryggvabraut/Glerárgata
+					Wide street: L/H &gt; 1.5
+					20000
+					5.000
+					50.000
+					16.000
+					Exposure assesment (population and/or ecosystems and/or materials)
+					No meteo measured
+				 
+					IS0007A
+					HVANNEYRI
+					Hvanneyri
+					Ozone measuring rural background station. This site is also used for meteorological measurements.
+					IS
+					S
+					S
+					S
+					IS
+					033510
+					Borgarfjarðarsveit
+					24-6-2004
+					64.570000
+					-21.770000
+					+064°34'12&quot;
+					-021°46'12&quot;
+					23
+					Background
+					rural
+					residential/agricultural
+					15.000
+					Compliance monitoring for EC Directives incl. assessment of on-going abatement programmes and/or for the prediction of planned abatement actions
+					Compliance monitoring for national legislation
+					Exposure assesment (population and/or ecosystems and/or materials)
+					Trend analysis
+					Research
+					Wind velocity
+					Wind direction
+					Temperature
+					Relative humidity
+					Precipitation
+				 
+					IS0004A
+					3
+					Keldnaholt_ozone
+					Measuring ozone only in suburban environment at Reykjavik
+					IS
+					S
+					S
+					S
+					IS
+					010001
+					Reykjavík
+					1-11-2001
+					64.139999
+					-21.766666
+					+064°08'24&quot;
+					-021°46'00&quot;
+					50
+					Traffic
+					suburban
+					residential/commercial
+					Road transport
+					5.000
+					800.000
+					REYKJAVIK
+					300.000
+					Vesturlandsvegur
+					Highway: average speed vehicles &gt; 80 km/h
+					10000
+					20.000
+					80.000
+					10.000
+					Compliance monitoring for EC Directives incl. assessment of on-going abatement programmes and/or for the prediction of planned abatement actions
+					Research
+				 
+					IS0003A
+					2
+					Miklatorg_svif
+					Particulate Matter Monitoring, PM 2,5 and PM10. Located 15 m from heavy traffic. Air intake at 5 m height.
+					IS
+					S
+					S
+					S
+					IS
+					010001
+					Reykjavík
+					26-3-1986
+					64.136108
+					-21.921110
+					+064°08'10&quot;
+					-021°55'16&quot;
+					14
+					Traffic
+					urban
+					residential/commercial
+					Road transport
+					5.000
+					15.000
+					REYKJAVIK
+					300.000
+					Miklabraut
+					Highway: average speed vehicles &gt; 80 km/h
+					44000
+					5.000
+					60.000
+					Compliance monitoring for EC Directives incl. assessment of on-going abatement programmes and/or for the prediction of planned abatement actions
+					Compliance monitoring for national legislation
+					Exposure assesment (population and/or ecosystems and/or materials)
+					Trend analysis
+					Research
+					Other, specify:
+					Determint the source op particular matter
+				 
+					IS0002A
+					1
+					Hvaleyrarholt
+					IS
+					S
+					S
+					S
+					IS
+					010001
+					Reykjavík
+					1-1-1900
+					64.197220
+					-21.747778
+					+064°11'50&quot;
+					-021°44'52&quot;
+					20
+					Background
+					suburban
+					unknown
+					HVALEYRARHOLT
+					50.000
+					Exposure assesment (population and/or ecosystems and/or materials)
+					Monitoring specific industries/power plants
+					Trend analysis
+					Research
+					No meteo measured
+				 
+					IS0002R
+					Irafoss
+					IS
+					-
+					-
+					-
+					IS
+					238719
+					Grímsnes- og Grafningshreppur
+					1-1-1900
+					64.099998
+					-21.016945
+					+064°06'00&quot;
+					-021°01'01&quot;
+					66
+					Background
+					rural
+					unknown
+				 
+					IS0001A
+					2
+					Miklatorg
+					Monitoring PM10 and PM2.5, located 15m from heavy traffic
+					IS
+					S
+					S
+					S
+					IS
+					010001
+					Reykjavík
+					29-3-1986
+					64.136108
+					-21.921110
+					+064°08'10&quot;
+					-021°55'16&quot;
+					14
+					Traffic
+					urban
+					residential/commercial
+					Road transport
+					5.000
+					15.000
+					REYKJAVIK
+					300.000
+					Miklabraut
+					Highway: average speed vehicles &gt; 80 km/h
+					44000
+					5.000
+					60.000
+					8.000
+					Compliance monitoring for EC Directives incl. assessment of on-going abatement programmes and/or for the prediction of planned abatement actions
+					Compliance monitoring for national legislation
+					Exposure assesment (population and/or ecosystems and/or materials)
+					Trend analysis
+					Research
+					No meteo measured
+				 
+					IS0005A
+					5
+					Grensas
+					Heavy traffic
+					IS
+					S
+					S
+					S
+					IS
+					010001
+					Reykjavík
+					30-6-1990
+					64.130280
+					-21.874445
+					+064°07'49&quot;
+					-021°52'28&quot;
+					31
+					Traffic
+					urban
+					commercial
+					Road transport
+					3.000
+					5.000
+					REYKJAVIK
+					300.000
+					Grensasvegur
+					Wide street: L/H &gt; 1.5
+					44000
+					5.000
+					50.000
+					20.000
+					Compliance monitoring for EC Directives incl. assessment of on-going abatement programmes and/or for the prediction of planned abatement actions
+					Compliance monitoring for national legislation
+					Exposure assesment (population and/or ecosystems and/or materials)
+					Wind velocity
+					Wind direction
+					Pressure
+					Temperature
+					Relative humidity
+					Duration of sunlight
+					Wind component south-north
+					Wind component west-east
+					Volume of air
+					Global radiation
+				 
+					IS0006A
+					Husdyragardurinn
+					Urban Background Station in Husdyragardurinn, Laugardal.
+					IS
+					S
+					S
+					S
+					IS
+					010001
+					Reykjavík
+					8-8-2002
+					64.138885
+					-21.873611
+					+064°08'20&quot;
+					-021°52'25&quot;
+					26
+					Background
+					urban
+					residential/commercial/agricultural
+					Road transport
+					REYKJAVIK
+					300.000
+					Sudurlandsbraut
+					Wide street: L/H &gt; 1.5
+					Compliance monitoring for EC Directives incl. assessment of on-going abatement programmes and/or for the prediction of planned abatement actions
+					Exposure assesment (population and/or ecosystems and/or materials)
+					Trend analysis
+					Wind velocity
+					Wind direction
+					Pressure
+					Temperature
+					Relative humidity
+					Duration of sunlight
+					Wind component south-north
+					Wind component west-east
+					Volume of air
+					Global radiation
+				</root>
