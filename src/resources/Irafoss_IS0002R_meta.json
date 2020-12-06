@@ -1,0 +1,22 @@
+{
+  "station_info" : {
+    "station_european_code" : "IS0002R",
+    "station_name" : "Irafoss",
+    "station_nuts_level0" : "IS",
+    "station_nuts_level1" : "-",
+    "station_nuts_level2" : "-",
+    "station_nuts_level3" : "-",
+    "sabe_country_code" : "IS",
+    "sabe_unit_code" : "238719",
+    "sabe_unit_name" : "Grímsnes- og Grafningshreppur",
+    "station_start_date" : "1-1-1900",
+    "station_latitude_decimal_degrees" : "64.099998",
+    "station_longitude_decimal_degrees" : "-21.016945",
+    "station_latitude_dms" : "+064°06'00\"",
+    "station_longitude_dms" : "-021°01'01\"",
+    "station_altitude" : "66",
+    "type_of_station" : "Background",
+    "station_type_of_area" : "rural",
+    "station_characteristic_of_zone" : "unknown"
+  }
+}

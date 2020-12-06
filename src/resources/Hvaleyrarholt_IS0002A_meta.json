@@ -1,0 +1,30 @@
+{
+  "station_info" : {
+    "station_european_code" : "IS0002A",
+    "station_local_code" : "1",
+    "station_name" : "Hvaleyrarholt",
+    "station_nuts_level0" : "IS",
+    "station_nuts_level1" : "S",
+    "station_nuts_level2" : "S",
+    "station_nuts_level3" : "S",
+    "sabe_country_code" : "IS",
+    "sabe_unit_code" : "010001",
+    "sabe_unit_name" : "Reykjavík",
+    "station_start_date" : "1-1-1900",
+    "station_latitude_decimal_degrees" : "64.197220",
+    "station_longitude_decimal_degrees" : "-21.747778",
+    "station_latitude_dms" : "+064°11'50\"",
+    "station_longitude_dms" : "-021°44'52\"",
+    "station_altitude" : "20",
+    "type_of_station" : "Background",
+    "station_type_of_area" : "suburban",
+    "station_characteristic_of_zone" : "unknown",
+    "station_city" : "HVALEYRARHOLT",
+    "population" : "50.000",
+    "monitoring_obj" : "Exposure assesment (population and/or ecosystems and/or materials)",
+    "monitoring_obj" : "Monitoring specific industries/power plants",
+    "monitoring_obj" : "Trend analysis",
+    "monitoring_obj" : "Research",
+    "meteorological_parameter" : "No meteo measured"
+  }
+}
