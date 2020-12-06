@@ -23,7 +23,17 @@ object UsingXML_Sl_measurements extends App {
   val j = pretty(render(stAkureyriAllMeasurementjson))
 println(j)
 
+  val component_name = stationAkureyri \\ "measurement_configuration" \\ "component_name"
+  val component_caption = stationAkureyri \\ "measurement_configuration" \\ "component_caption"
+  val measurement_unit = stationAkureyri \\ "measurement_configuration" \\ "measurement_unit"
+  val measurement_technique_principle = stationAkureyri \\ "measurement_configuration" \\ "measurement_technique_principle"
+//  val stationAkureyriAllMeasurement = stationAkureyri \\ "measurement_configuration" \\ "
+//  val stationAkureyriAllMeasurement = stationAkureyri \\ "measurement_configuration" \\ "
+
 //  component_name\tcomponent_caption\measurement_unit\tmeasurement_technique_principle\tYear 2005 mean\tYear 2005 median(P50)\t All the years
 //    Benzene (air)\tC6H6\tug/m3\tgas chromatography mass spectrometry (GC-MS)\t0.883\t0.700
 
+  //override def toString = s"component_name:$component_name\tcomponent_caption:$component_caption\tmeasurement_unit:$measurement_unit\tmeasurement_technique_principle:$measurement_technique_principle"
+  //scala.xml.XML.save("savedJSON.json", node, "UTF-8", true, null)
 }
+
