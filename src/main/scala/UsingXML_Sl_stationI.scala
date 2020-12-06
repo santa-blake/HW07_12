@@ -21,6 +21,16 @@ object UsingXML_Sl_stationI extends App {
     //  val stationHusdyrargardurinn = allStationIS.filter { _ \\ "@Id" exists (_.text == "IS0006A:Husdyragardurinn")}
 
   val StInfo = stationAkureyri \\ "station_info"
+  // must automatize naming formula
+
+//  val StInfo = stationHvanneyri \\ "station_info"
+//  val StInfo = stationKneldnaholt_ozone \\ "station_info"
+//  val StInfo = stationMiklatorg_svif \\ "station_info"
+//  val StInfo = stationHvaleyrarholt \\ "station_info"
+//  val StInfo = stationIrafoss \\ "station_info"
+//  val StInfo = stationMiklatorg \\ "station_info"
+//  val StInfo = stationGrensas \\ "station_info"
+//  val StInfo = stationHusdyragardurinn \\ "station_info"
   val StToJson = toJson(StInfo)
   val SI = pretty(render(StToJson))
   println(SI)

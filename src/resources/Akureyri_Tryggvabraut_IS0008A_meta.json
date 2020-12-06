@@ -1,0 +1,33 @@
+{
+  "station_info" : {
+    "station_european_code" : "IS0008A",
+    "station_local_code" : "8A",
+    "station_name" : "Akureyri Tryggvabraut",
+    "station_description" : "Particulate Matter Monitoring, PM 10",
+    "station_nuts_level0" : "IS",
+    "station_nuts_level1" : "-",
+    "station_nuts_level2" : "-",
+    "station_nuts_level3" : "-",
+    "station_start_date" : "20-1-2005",
+    "station_latitude_decimal_degrees" : "65.688890",
+    "station_longitude_decimal_degrees" : "-18.100000",
+    "station_latitude_dms" : "+065°41'20\"",
+    "station_longitude_dms" : "-018°06'00\"",
+    "station_altitude" : "6",
+    "type_of_station" : "Traffic",
+    "station_type_of_area" : "urban",
+    "station_characteristic_of_zone" : "commercial",
+    "main_emission_source" : "Road transport",
+    "station_area_of_representativeness" : "15.000",
+    "station_city" : "AKUREYRI",
+    "population" : "17.000",
+    "street_name" : "Tryggvabraut/Glerárgata",
+    "street_type" : "Wide street: L/H > 1.5",
+    "number_of_vehicles" : "20000",
+    "station_lorry_percentage" : "5.000",
+    "station_traffic_speed" : "50.000",
+    "station_street_width" : "16.000",
+    "monitoring_obj" : "Exposure assesment (population and/or ecosystems and/or materials)",
+    "meteorological_parameter" : "No meteo measured"
+  }
+}
