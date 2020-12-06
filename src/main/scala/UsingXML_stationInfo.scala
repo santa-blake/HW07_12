@@ -4,7 +4,7 @@ import org.json4s.jackson.JsonMethods.{pretty, render}
 import java.io.FileWriter
 import scala.xml.XML.loadFile
 
-object UsingXML_Sl_stationI extends App {
+object UsingXML_stationInfo extends App {
 
   val airbase = loadFile("./src/resources/IS_meta.xml")
   val allStationIS = airbase \ "country" \ "network" \ "station"
