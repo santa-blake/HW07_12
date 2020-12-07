@@ -11,7 +11,6 @@ object IS_measurements extends App {
 
     val stationAkureyriMC = allStationIS.filter { _ \\ "@Id" exists (_.text == "IS0008A:Akureyri Tryggvabraut")}
     // must optimize other station info making
-
      val stationHvanneyriMC = allStationIS.filter { _ \\ "@Id" exists (_.text == "IS0007A:Hvanneyri")}
      val stationKeldnaholt_ozoneMC = allStationIS.filter { _ \\ "@Id" exists (_.text == "IS0004A:Keldnaholt_ozone")}
      val stationMiklatorgOMC = allStationIS.filter { _ \\ "@Id" exists (_.text == "IS0003A:Miklatorg_svif")}
@@ -24,27 +23,27 @@ object IS_measurements extends App {
     val StationMC = stationAkureyriMC \\ "measurement_configuration"
     val StationMC2 = stationHvanneyriMC \\ "measurement_configuration"
     val StationMC3 = stationKeldnaholt_ozoneMC \\ "measurement_configuration"
-    // must automatize naming formula
+    // .... must automatize naming formula
 
 
     val StToJson = toJson(StationMC)
     val StToJson2 = toJson(StationMC2)
     val StToJson3 = toJson(StationMC3)
-      ....
+// ....
 
     val SI = pretty(render(StToJson))
     val SI2 = pretty(render(StToJson2))
     val SI3 = pretty(render(StToJson3))
-      ....
+// ....
 
     println(SI)
     println(SI2)
     println(SI3)
-      ...
+// .....
 
     val destName = "./src/resources/Akureyri_Tryggvabraut_yearly.json"
     val destName2 = "./src/resources/Akureyri_Tryggvabraut_yearly.tsv"
-    // must automatize naming formula
+    // ..... must automatize naming formula
 
 //    val destName = "./src/resources/Hvanneyri_yearly.json"
 //    val destName2 = "./src/resources/Hvanneyri_yearly.tsv"

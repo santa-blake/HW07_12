@@ -1,6 +1,6 @@
 import scala.xml.XML.loadFile
 
-object ISstationCoordinates {
+object IS_stationCoordinates {
 
     val airbase = loadFile("./src/resources/IS_meta.xml")
     val allStationIS = airbase \ "country" \ "network" \ "station"
