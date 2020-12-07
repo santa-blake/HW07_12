@@ -1,0 +1,313 @@
+<measurement_configuration component="Particulate sulphate (aerosol) - UNKNOWN">
+					<measurement_info>
+						<component_name>Particulate sulphate (aerosol)</component_name>
+						<component_caption>SO4 (H2SO4 aerosols) (SO4--)</component_caption>
+						<component_code>47</component_code>
+						<component_FWD>no</component_FWD>
+						<measurement_unit>ug/m3</measurement_unit>
+						<measurement_start_date>1-1-1900</measurement_start_date>
+						<measurement_latest_date_available_in_AIRBASE>30-11-1994</measurement_latest_date_available_in_AIRBASE>
+						<measurement_european_code>100</measurement_european_code>
+						<measurement_automatic>no</measurement_automatic>
+						<measurement_technique_principle>UNKNOWN</measurement_technique_principle>
+						<measurement_equipment>UNDEFINED</measurement_equipment>
+						<height_sampling_point>0</height_sampling_point>
+						<length_sampling_line>0</length_sampling_line>
+						<sampling_time>0</sampling_time>
+					</measurement_info>
+					<data_set>
+						<data_type value="day">
+							<start_date>1-1-1993</start_date>
+							<end_date>30-11-1994</end_date>
+							<data_file>IS0002R0004700100day.1-1-1993.30-11-1994</data_file>
+						</data_type>
+					</data_set>
+					<statistics Year="1993">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>100.000</statistics_percentage_valid>
+								<statistics_number_valid>365</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>0.951</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>1.000</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>2.000</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>4.000</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>13.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="1994">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>64.932</statistics_percentage_valid>
+								<statistics_number_valid>237</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>0.000</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>0.595</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>2.000</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>3.000</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>6.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+				</measurement_configuration><measurement_configuration component="Sulphur dioxide (air) - UNKNOWN">
+					<measurement_info>
+						<component_name>Sulphur dioxide (air)</component_name>
+						<component_caption>SO2</component_caption>
+						<component_code>1</component_code>
+						<component_FWD>yes</component_FWD>
+						<measurement_unit>ug/m3</measurement_unit>
+						<measurement_start_date>1-1-1900</measurement_start_date>
+						<measurement_latest_date_available_in_AIRBASE>30-11-1994</measurement_latest_date_available_in_AIRBASE>
+						<measurement_european_code>100</measurement_european_code>
+						<measurement_automatic>no</measurement_automatic>
+						<measurement_technique_principle>UNKNOWN</measurement_technique_principle>
+						<measurement_equipment>UNDEFINED</measurement_equipment>
+						<height_sampling_point>0</height_sampling_point>
+						<length_sampling_line>0</length_sampling_line>
+						<sampling_time>0</sampling_time>
+					</measurement_info>
+					<data_set>
+						<data_type value="day">
+							<start_date>1-1-1993</start_date>
+							<end_date>30-11-1994</end_date>
+							<data_file>IS0002R0000100100day.1-1-1993.30-11-1994</data_file>
+						</data_type>
+					</data_set>
+					<statistics Year="1993">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>94.795</statistics_percentage_valid>
+								<statistics_number_valid>346</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>0.000</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>0.000</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>0.000</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>0.009</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>1.000</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>4th highest value</statistic_name>
+									<statistic_shortname>Max4</statistic_shortname>
+									<statistic_value>0.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+							<statistic_set type="Exceedances">
+								<statistics_percentage_valid>94.795</statistics_percentage_valid>
+								<statistics_number_valid>346</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>days with c &gt; 125 ug/m3</statistic_name>
+									<statistic_shortname>Days(c &gt; 125)</statistic_shortname>
+									<statistic_value>0.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="1994">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>89.041</statistics_percentage_valid>
+								<statistics_number_valid>325</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>0.000</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>0.000</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>0.034</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>1.000</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>2.000</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>4th highest value</statistic_name>
+									<statistic_shortname>Max4</statistic_shortname>
+									<statistic_value>1.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+							<statistic_set type="Exceedances">
+								<statistics_percentage_valid>89.041</statistics_percentage_valid>
+								<statistics_number_valid>325</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>days with c &gt; 125 ug/m3</statistic_name>
+									<statistic_shortname>Days(c &gt; 125)</statistic_shortname>
+									<statistic_value>0.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+				</measurement_configuration><measurement_configuration component="acidity (aerosol) - potentiometry">
+					<measurement_info>
+						<component_name>acidity (aerosol)</component_name>
+						<component_caption>pH</component_caption>
+						<component_code>76</component_code>
+						<component_FWD>no</component_FWD>
+						<measurement_unit>ne H/m3</measurement_unit>
+						<measurement_start_date>1-1-1900</measurement_start_date>
+						<measurement_latest_date_available_in_AIRBASE>30-11-1994</measurement_latest_date_available_in_AIRBASE>
+						<measurement_european_code>100</measurement_european_code>
+						<measurement_automatic>no</measurement_automatic>
+						<measurement_technique_principle>potentiometry</measurement_technique_principle>
+						<measurement_equipment>UNDEFINED</measurement_equipment>
+						<height_sampling_point>0</height_sampling_point>
+						<length_sampling_line>0</length_sampling_line>
+						<sampling_time>0</sampling_time>
+					</measurement_info>
+					<data_set>
+						<data_type value="day">
+							<start_date>1-1-1993</start_date>
+							<end_date>30-11-1994</end_date>
+							<data_file>IS0002R0007600100day.1-1-1993.30-11-1994</data_file>
+						</data_type>
+					</data_set>
+					<statistics Year="1993">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>55.342</statistics_percentage_valid>
+								<statistics_number_valid>202</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>5.700</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>5.712</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>6.600</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>6.800</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>7.500</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="1994">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>43.288</statistics_percentage_valid>
+								<statistics_number_valid>158</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>5.892</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>5.900</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>6.800</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>6.900</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>9.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+				</measurement_configuration>

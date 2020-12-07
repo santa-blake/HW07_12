@@ -1,0 +1,88 @@
+<measurement_configuration component="Particulate matter &lt; 10 µm (aerosol) - gravimetry">
+					<measurement_info>
+						<component_name>Particulate matter &lt; 10 µm (aerosol)</component_name>
+						<component_caption>PM10</component_caption>
+						<component_code>5</component_code>
+						<component_FWD>yes</component_FWD>
+						<measurement_unit>ug/m3</measurement_unit>
+						<measurement_start_date>20-1-2005</measurement_start_date>
+						<measurement_latest_date_available_in_AIRBASE>31-12-2006</measurement_latest_date_available_in_AIRBASE>
+						<measurement_european_code>100</measurement_european_code>
+						<measurement_automatic>no</measurement_automatic>
+						<measurement_technique_principle>gravimetry</measurement_technique_principle>
+						<measurement_equipment>Thermo RAAS10-300</measurement_equipment>
+						<integration_time_frequency>1</integration_time_frequency>
+						<calibration_unit>year</calibration_unit>
+						<height_sampling_point>4</height_sampling_point>
+						<length_sampling_line>1</length_sampling_line>
+						<location_sampling_point>kerbside</location_sampling_point>
+						<sampling_time>1</sampling_time>
+						<sampling_time_unit>natural day</sampling_time_unit>
+						<calibration_frequency>1</calibration_frequency>
+						<integration_time_unit>day</integration_time_unit>
+						<calibration_method>flow rate check</calibration_method>
+						<body_or_programme>EU EoI</body_or_programme>
+					</measurement_info>
+					<data_set>
+						<data_type value="day">
+							<start_date>1-1-2006</start_date>
+							<end_date>31-12-2006</end_date>
+							<data_file>IS0008A0000500100day.1-1-2006.31-12-2006</data_file>
+						</data_type>
+					</data_set>
+					<statistics Year="2006">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>63.288</statistics_percentage_valid>
+								<statistics_number_valid>231</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>21.200</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>34.458</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>109.500</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>137.900</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>228.000</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>36th highest value</statistic_name>
+									<statistic_shortname>Max36</statistic_shortname>
+									<statistic_value>64.000</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>8th highest value</statistic_name>
+									<statistic_shortname>Max8</statistic_shortname>
+									<statistic_value>128.500</statistic_value>
+								</statistic_result>
+							</statistic_set>
+							<statistic_set type="Exceedances">
+								<statistics_percentage_valid>63.288</statistics_percentage_valid>
+								<statistics_number_valid>231</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>days with c &gt; 50 ug/m3</statistic_name>
+									<statistic_shortname>Days(c &gt; 50)</statistic_shortname>
+									<statistic_value>50.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+				</measurement_configuration>

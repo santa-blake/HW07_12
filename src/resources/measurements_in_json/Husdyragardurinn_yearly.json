@@ -1,0 +1,2137 @@
+<measurement_configuration component="Nitrogen dioxide (air) - chemiluminescence">
+					<measurement_info>
+						<component_name>Nitrogen dioxide (air)</component_name>
+						<component_caption>NO2</component_caption>
+						<component_code>8</component_code>
+						<component_FWD>yes</component_FWD>
+						<measurement_unit>ug/m3</measurement_unit>
+						<measurement_start_date>8-8-2002</measurement_start_date>
+						<measurement_latest_date_available_in_AIRBASE>31-12-2006</measurement_latest_date_available_in_AIRBASE>
+						<measurement_european_code>100</measurement_european_code>
+						<measurement_automatic>yes</measurement_automatic>
+						<measurement_technique_principle>chemiluminescence</measurement_technique_principle>
+						<measurement_equipment>ECO PHYSICS CLD 700</measurement_equipment>
+						<integration_time_frequency>30</integration_time_frequency>
+						<calibration_unit>month</calibration_unit>
+						<height_sampling_point>4</height_sampling_point>
+						<length_sampling_line>0</length_sampling_line>
+						<location_sampling_point>park</location_sampling_point>
+						<sampling_time>1</sampling_time>
+						<sampling_time_unit>minute</sampling_time_unit>
+						<calibration_frequency>4</calibration_frequency>
+						<integration_time_unit>minute</integration_time_unit>
+						<calibration_method>reference measurement meth.</calibration_method>
+						<body_or_programme>EU EoI</body_or_programme>
+					</measurement_info>
+					<data_set>
+						<data_type value="day">
+							<start_date>1-1-2002</start_date>
+							<end_date>31-12-2006</end_date>
+							<data_file>IS0006A0000800100day.1-1-2002.31-12-2006</data_file>
+						</data_type>
+						<data_type value="hour">
+							<start_date>8-8-2002</start_date>
+							<end_date>31-12-2006</end_date>
+							<data_file>IS0006A0000800100hour.8-8-2002.31-12-2006</data_file>
+						</data_type>
+					</data_set>
+					<statistics Year="2002">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>39.726</statistics_percentage_valid>
+								<statistics_number_valid>145</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>11.446</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>13.593</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>31.863</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>38.062</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>50.904</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>39.612</statistics_percentage_valid>
+								<statistics_number_valid>3470</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>8.700</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>13.573</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>42.650</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>53.200</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>74.600</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>19th highest value</statistic_name>
+									<statistic_shortname>Max19</statistic_shortname>
+									<statistic_value>61.050</statistic_value>
+								</statistic_result>
+							</statistic_set>
+							<statistic_set type="Exceedances">
+								<statistics_percentage_valid>39.612</statistics_percentage_valid>
+								<statistics_number_valid>3470</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>hours with c &gt; 200 ug/m3</statistic_name>
+									<statistic_shortname>Hours(c &gt; 200)</statistic_shortname>
+									<statistic_value>0.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="2003">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>94.795</statistics_percentage_valid>
+								<statistics_number_valid>346</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>12.134</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>14.908</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>32.790</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>43.870</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>65.866</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>95.605</statistics_percentage_valid>
+								<statistics_number_valid>8375</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>9.960</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>14.954</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>49.420</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>64.170</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>105.300</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>19th highest value</statistic_name>
+									<statistic_shortname>Max19</statistic_shortname>
+									<statistic_value>86.020</statistic_value>
+								</statistic_result>
+							</statistic_set>
+							<statistic_set type="Exceedances">
+								<statistics_percentage_valid>95.605</statistics_percentage_valid>
+								<statistics_number_valid>8375</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>hours with c &gt; 200 ug/m3</statistic_name>
+									<statistic_shortname>Hours(c &gt; 200)</statistic_shortname>
+									<statistic_value>0.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="2004">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>97.541</statistics_percentage_valid>
+								<statistics_number_valid>357</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>12.177</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>14.945</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>36.396</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>42.333</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>61.902</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>97.564</statistics_percentage_valid>
+								<statistics_number_valid>8570</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>9.600</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>14.941</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>49.250</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>65.400</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>100.450</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>19th highest value</statistic_name>
+									<statistic_shortname>Max19</statistic_shortname>
+									<statistic_value>86.250</statistic_value>
+								</statistic_result>
+							</statistic_set>
+							<statistic_set type="Exceedances">
+								<statistics_percentage_valid>97.564</statistics_percentage_valid>
+								<statistics_number_valid>8570</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>hours with c &gt; 200 ug/m3</statistic_name>
+									<statistic_shortname>Hours(c &gt; 200)</statistic_shortname>
+									<statistic_value>0.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="2005">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>95.068</statistics_percentage_valid>
+								<statistics_number_valid>347</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>8.774</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>12.644</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>33.560</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>41.723</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>47.745</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>95.297</statistics_percentage_valid>
+								<statistics_number_valid>8348</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>7.661</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>12.659</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>42.630</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>56.790</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>99.326</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>19th highest value</statistic_name>
+									<statistic_shortname>Max19</statistic_shortname>
+									<statistic_value>68.926</statistic_value>
+								</statistic_result>
+							</statistic_set>
+							<statistic_set type="Exceedances">
+								<statistics_percentage_valid>95.297</statistics_percentage_valid>
+								<statistics_number_valid>8348</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>hours with c &gt; 200 ug/m3</statistic_name>
+									<statistic_shortname>Hours(c &gt; 200)</statistic_shortname>
+									<statistic_value>0.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="2006">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>93.699</statistics_percentage_valid>
+								<statistics_number_valid>342</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>6.817</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>8.289</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>17.771</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>20.508</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>27.417</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>94.315</statistics_percentage_valid>
+								<statistics_number_valid>8262</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>5.600</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>8.344</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>25.900</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>33.600</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>57.800</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>19th highest value</statistic_name>
+									<statistic_shortname>Max19</statistic_shortname>
+									<statistic_value>47.100</statistic_value>
+								</statistic_result>
+							</statistic_set>
+							<statistic_set type="Exceedances">
+								<statistics_percentage_valid>94.315</statistics_percentage_valid>
+								<statistics_number_valid>8262</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>hours with c &gt; 200 ug/m3</statistic_name>
+									<statistic_shortname>Hours(c &gt; 200)</statistic_shortname>
+									<statistic_value>0.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+				</measurement_configuration><measurement_configuration component="Nitrogen monoxide (air) - chemiluminescence">
+					<measurement_info>
+						<component_name>Nitrogen monoxide (air)</component_name>
+						<component_caption>NO</component_caption>
+						<component_code>38</component_code>
+						<component_FWD>no</component_FWD>
+						<measurement_unit>ug/m3</measurement_unit>
+						<measurement_start_date>8-8-2002</measurement_start_date>
+						<measurement_latest_date_available_in_AIRBASE>31-12-2006</measurement_latest_date_available_in_AIRBASE>
+						<measurement_european_code>100</measurement_european_code>
+						<measurement_automatic>yes</measurement_automatic>
+						<measurement_technique_principle>chemiluminescence</measurement_technique_principle>
+						<measurement_equipment>ECO PHYSICS CLD 700</measurement_equipment>
+						<integration_time_frequency>30</integration_time_frequency>
+						<calibration_unit>month</calibration_unit>
+						<height_sampling_point>4</height_sampling_point>
+						<length_sampling_line>0</length_sampling_line>
+						<location_sampling_point>park</location_sampling_point>
+						<sampling_time>1</sampling_time>
+						<sampling_time_unit>minute</sampling_time_unit>
+						<calibration_frequency>4</calibration_frequency>
+						<integration_time_unit>minute</integration_time_unit>
+						<calibration_method>reference measurement meth.</calibration_method>
+						<body_or_programme>EU EoI</body_or_programme>
+					</measurement_info>
+					<data_set>
+						<data_type value="day">
+							<start_date>1-1-2002</start_date>
+							<end_date>31-12-2006</end_date>
+							<data_file>IS0006A0003800100day.1-1-2002.31-12-2006</data_file>
+						</data_type>
+						<data_type value="hour">
+							<start_date>8-8-2002</start_date>
+							<end_date>31-12-2006</end_date>
+							<data_file>IS0006A0003800100hour.8-8-2002.31-12-2006</data_file>
+						</data_type>
+					</data_set>
+					<statistics Year="2002">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>39.726</statistics_percentage_valid>
+								<statistics_number_valid>145</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>0.767</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>4.010</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>20.987</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>33.904</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>69.587</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>39.612</statistics_percentage_valid>
+								<statistics_number_valid>3470</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>-0.150</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>4.008</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>19.700</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>60.450</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>325.850</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="2003">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>95.068</statistics_percentage_valid>
+								<statistics_number_valid>347</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>0.854</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>3.852</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>18.637</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>41.808</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>87.096</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>95.708</statistics_percentage_valid>
+								<statistics_number_valid>8384</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>0.050</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>3.836</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>14.400</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>49.450</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>384.500</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="2004">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>97.541</statistics_percentage_valid>
+								<statistics_number_valid>357</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>0.955</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>4.173</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>22.065</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>38.392</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>100.656</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>97.564</statistics_percentage_valid>
+								<statistics_number_valid>8570</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>0.100</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>4.171</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>18.500</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>56.600</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>374.550</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="2005">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>95.068</statistics_percentage_valid>
+								<statistics_number_valid>347</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>0.800</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>3.551</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>20.846</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>38.013</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>103.009</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>95.308</statistics_percentage_valid>
+								<statistics_number_valid>8349</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>0.193</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>3.536</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>12.811</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>46.530</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>452.800</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="2006">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>93.699</statistics_percentage_valid>
+								<statistics_number_valid>342</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>0.367</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>2.210</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>10.179</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>24.138</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>45.459</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>94.315</statistics_percentage_valid>
+								<statistics_number_valid>8262</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>-0.100</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>2.294</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>8.500</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>33.700</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>189.300</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+				</measurement_configuration><measurement_configuration component="Ozone (air) - chemiluminescence">
+					<measurement_info>
+						<component_name>Ozone (air)</component_name>
+						<component_caption>O3</component_caption>
+						<component_code>7</component_code>
+						<component_FWD>yes</component_FWD>
+						<measurement_unit>ug/m3</measurement_unit>
+						<measurement_start_date>8-8-2002</measurement_start_date>
+						<measurement_latest_date_available_in_AIRBASE>31-12-2006</measurement_latest_date_available_in_AIRBASE>
+						<measurement_european_code>100</measurement_european_code>
+						<measurement_automatic>yes</measurement_automatic>
+						<measurement_technique_principle>chemiluminescence</measurement_technique_principle>
+						<measurement_equipment>HORIBA APNA350E</measurement_equipment>
+						<integration_time_frequency>30</integration_time_frequency>
+						<calibration_unit>month</calibration_unit>
+						<height_sampling_point>4</height_sampling_point>
+						<length_sampling_line>0</length_sampling_line>
+						<location_sampling_point>park</location_sampling_point>
+						<sampling_time>1</sampling_time>
+						<sampling_time_unit>minute</sampling_time_unit>
+						<calibration_frequency>3</calibration_frequency>
+						<integration_time_unit>minute</integration_time_unit>
+						<calibration_method>reference measurement meth.</calibration_method>
+						<body_or_programme>EU EoI</body_or_programme>
+					</measurement_info>
+					<data_set>
+						<data_type value="day">
+							<start_date>1-1-2002</start_date>
+							<end_date>31-12-2006</end_date>
+							<data_file>IS0006A0000700100day.1-1-2002.31-12-2006</data_file>
+						</data_type>
+						<data_type value="dymax">
+							<start_date>1-1-2002</start_date>
+							<end_date>31-12-2006</end_date>
+							<data_file>IS0006A0000700100dymax.1-1-2002.31-12-2006</data_file>
+						</data_type>
+						<data_type value="hour">
+							<start_date>8-8-2002</start_date>
+							<end_date>19-12-2006</end_date>
+							<data_file>IS0006A0000700100hour.8-8-2002.19-12-2006</data_file>
+						</data_type>
+						<data_type value="hour8">
+							<start_date>1-1-2002</start_date>
+							<end_date>31-12-2006</end_date>
+							<data_file>IS0006A0000700100hour8.1-1-2002.31-12-2006</data_file>
+						</data_type>
+					</data_set>
+					<statistics Year="2002">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>39.726</statistics_percentage_valid>
+								<statistics_number_valid>145</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>65.269</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="dymax">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>39.452</statistics_percentage_valid>
+								<statistics_number_valid>144</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>77.562</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>80.717</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>116.019</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>118.006</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>126.125</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>26th highest value</statistic_name>
+									<statistic_shortname>Max26</statistic_shortname>
+									<statistic_value>104.069</statistic_value>
+								</statistic_result>
+							</statistic_set>
+							<statistic_set type="Exceedances">
+								<statistics_percentage_valid>39.452</statistics_percentage_valid>
+								<statistics_number_valid>144</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>days with c &gt; 120 ug/m3</statistic_name>
+									<statistic_shortname>Days(c &gt; 120)</statistic_shortname>
+									<statistic_value>2.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>39.612</statistics_percentage_valid>
+								<statistics_number_valid>3470</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>65.335</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>66.800</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>110.800</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>116.300</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>130.900</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="2003">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>97.534</statistics_percentage_valid>
+								<statistics_number_valid>356</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>55.290</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="dymax">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>97.534</statistics_percentage_valid>
+								<statistics_number_valid>356</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>60.261</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>66.015</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>100.636</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>104.695</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>113.629</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>26th highest value</statistic_name>
+									<statistic_shortname>Max26</statistic_shortname>
+									<statistic_value>99.089</statistic_value>
+								</statistic_result>
+							</statistic_set>
+							<statistic_set type="Exceedances">
+								<statistics_percentage_valid>97.534</statistics_percentage_valid>
+								<statistics_number_valid>356</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>days with c &gt; 120 ug/m3</statistic_name>
+									<statistic_shortname>Days(c &gt; 120)</statistic_shortname>
+									<statistic_value>0.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>98.368</statistics_percentage_valid>
+								<statistics_number_valid>8617</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>53.250</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>55.395</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>95.520</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>100.560</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>139.430</statistic_value>
+								</statistic_result>
+							</statistic_set>
+							<statistic_set type="AOT">
+								<statistics_percentage_valid>99.457</statistics_percentage_valid>
+								<statistics_number_valid>1098</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>AOT40 (c &gt; 80 ug/m3,3 months,corrected)</statistic_name>
+									<statistic_shortname>AOT40</statistic_shortname>
+									<statistic_value>40.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="2004">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>97.541</statistics_percentage_valid>
+								<statistics_number_valid>357</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>48.200</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="dymax">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>97.541</statistics_percentage_valid>
+								<statistics_number_valid>357</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>57.876</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>58.106</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>75.669</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>79.525</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>97.350</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>26th highest value</statistic_name>
+									<statistic_shortname>Max26</statistic_shortname>
+									<statistic_value>74.050</statistic_value>
+								</statistic_result>
+							</statistic_set>
+							<statistic_set type="Exceedances">
+								<statistics_percentage_valid>97.541</statistics_percentage_valid>
+								<statistics_number_valid>357</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>days with c &gt; 120 ug/m3</statistic_name>
+									<statistic_shortname>Days(c &gt; 120)</statistic_shortname>
+									<statistic_value>0.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>97.541</statistics_percentage_valid>
+								<statistics_number_valid>8568</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>48.188</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>50.550</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>72.150</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>76.250</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>104.400</statistic_value>
+								</statistic_result>
+							</statistic_set>
+							<statistic_set type="AOT">
+								<statistics_percentage_valid>99.185</statistics_percentage_valid>
+								<statistics_number_valid>1095</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>AOT40 (c &gt; 80 ug/m3,3 months,corrected)</statistic_name>
+									<statistic_shortname>AOT40</statistic_shortname>
+									<statistic_value>61.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="2005">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>96.712</statistics_percentage_valid>
+								<statistics_number_valid>353</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>40.926</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="dymax">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>96.712</statistics_percentage_valid>
+								<statistics_number_valid>353</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>48.872</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>49.607</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>70.601</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>73.833</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>76.548</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>26th highest value</statistic_name>
+									<statistic_shortname>Max26</statistic_shortname>
+									<statistic_value>68.495</statistic_value>
+								</statistic_result>
+							</statistic_set>
+							<statistic_set type="Exceedances">
+								<statistics_percentage_valid>96.712</statistics_percentage_valid>
+								<statistics_number_valid>353</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>days with c &gt; 120 ug/m3</statistic_name>
+									<statistic_shortname>Days(c &gt; 120)</statistic_shortname>
+									<statistic_value>0.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>96.906</statistics_percentage_valid>
+								<statistics_number_valid>8489</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>40.954</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>41.695</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>67.585</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>71.485</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>80.240</statistic_value>
+								</statistic_result>
+							</statistic_set>
+							<statistic_set type="AOT">
+								<statistics_percentage_valid>98.732</statistics_percentage_valid>
+								<statistics_number_valid>1090</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>AOT40 (c &gt; 80 ug/m3,3 months,corrected)</statistic_name>
+									<statistic_shortname>AOT40</statistic_shortname>
+									<statistic_value>0.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="2006">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>33.699</statistics_percentage_valid>
+								<statistics_number_valid>123</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>47.684</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="dymax">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>33.151</statistics_percentage_valid>
+								<statistics_number_valid>121</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>57.967</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>59.463</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>67.600</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>70.275</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>76.312</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>26th highest value</statistic_name>
+									<statistic_shortname>Max26</statistic_shortname>
+									<statistic_value>62.737</statistic_value>
+								</statistic_result>
+							</statistic_set>
+							<statistic_set type="Exceedances">
+								<statistics_percentage_valid>33.151</statistics_percentage_valid>
+								<statistics_number_valid>121</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>days with c &gt; 120 ug/m3</statistic_name>
+									<statistic_shortname>Days(c &gt; 120)</statistic_shortname>
+									<statistic_value>0.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>34.361</statistics_percentage_valid>
+								<statistics_number_valid>3010</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>47.341</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>51.900</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>66.300</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>68.900</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>97.900</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+				</measurement_configuration><measurement_configuration component="Particulate matter &lt; 10 µm (aerosol) - Beta ray attenuation">
+					<measurement_info>
+						<component_name>Particulate matter &lt; 10 µm (aerosol)</component_name>
+						<component_caption>PM10</component_caption>
+						<component_code>5</component_code>
+						<component_FWD>yes</component_FWD>
+						<measurement_unit>ug/m3</measurement_unit>
+						<measurement_start_date>8-8-2002</measurement_start_date>
+						<measurement_latest_date_available_in_AIRBASE>31-12-2006</measurement_latest_date_available_in_AIRBASE>
+						<measurement_european_code>100</measurement_european_code>
+						<measurement_automatic>yes</measurement_automatic>
+						<measurement_technique_principle>Beta ray attenuation</measurement_technique_principle>
+						<measurement_equipment>FAG FH 62 I-N µP</measurement_equipment>
+						<integration_time_frequency>30</integration_time_frequency>
+						<height_sampling_point>4</height_sampling_point>
+						<length_sampling_line>0</length_sampling_line>
+						<location_sampling_point>park</location_sampling_point>
+						<sampling_time>1</sampling_time>
+						<sampling_time_unit>minute</sampling_time_unit>
+						<integration_time_unit>minute</integration_time_unit>
+						<calibration_method>unknown</calibration_method>
+						<body_or_programme>EU EoI</body_or_programme>
+					</measurement_info>
+					<data_set>
+						<data_type value="day">
+							<start_date>1-1-2002</start_date>
+							<end_date>31-12-2006</end_date>
+							<data_file>IS0006A0000500100day.1-1-2002.31-12-2006</data_file>
+						</data_type>
+						<data_type value="hour">
+							<start_date>8-8-2002</start_date>
+							<end_date>2-12-2006</end_date>
+							<data_file>IS0006A0000500100hour.8-8-2002.2-12-2006</data_file>
+						</data_type>
+					</data_set>
+					<statistics Year="2002">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>36.164</statistics_percentage_valid>
+								<statistics_number_valid>132</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>13.681</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>15.533</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>30.625</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>33.592</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>73.329</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>36th highest value</statistic_name>
+									<statistic_shortname>Max36</statistic_shortname>
+									<statistic_value>17.769</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>8th highest value</statistic_name>
+									<statistic_shortname>Max8</statistic_shortname>
+									<statistic_value>30.625</statistic_value>
+								</statistic_result>
+							</statistic_set>
+							<statistic_set type="Exceedances">
+								<statistics_percentage_valid>36.164</statistics_percentage_valid>
+								<statistics_number_valid>132</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>days with c &gt; 50 ug/m3</statistic_name>
+									<statistic_shortname>Days(c &gt; 50)</statistic_shortname>
+									<statistic_value>1.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>36.530</statistics_percentage_valid>
+								<statistics_number_valid>3200</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>15.657</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="2003">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>99.178</statistics_percentage_valid>
+								<statistics_number_valid>362</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>17.780</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>21.267</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>44.145</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>51.485</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>107.034</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>36th highest value</statistic_name>
+									<statistic_shortname>Max36</statistic_shortname>
+									<statistic_value>37.516</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>8th highest value</statistic_name>
+									<statistic_shortname>Max8</statistic_shortname>
+									<statistic_value>51.485</statistic_value>
+								</statistic_result>
+							</statistic_set>
+							<statistic_set type="Exceedances">
+								<statistics_percentage_valid>99.178</statistics_percentage_valid>
+								<statistics_number_valid>362</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>days with c &gt; 50 ug/m3</statistic_name>
+									<statistic_shortname>Days(c &gt; 50)</statistic_shortname>
+									<statistic_value>11.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>99.486</statistics_percentage_valid>
+								<statistics_number_valid>8715</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>21.290</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="2004">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>83.060</statistics_percentage_valid>
+								<statistics_number_valid>304</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>25.250</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>29.860</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>64.577</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>90.590</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>122.585</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>36th highest value</statistic_name>
+									<statistic_shortname>Max36</statistic_shortname>
+									<statistic_value>51.110</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>8th highest value</statistic_name>
+									<statistic_shortname>Max8</statistic_shortname>
+									<statistic_value>89.204</statistic_value>
+								</statistic_result>
+							</statistic_set>
+							<statistic_set type="Exceedances">
+								<statistics_percentage_valid>83.060</statistics_percentage_valid>
+								<statistics_number_valid>304</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>days with c &gt; 50 ug/m3</statistic_name>
+									<statistic_shortname>Days(c &gt; 50)</statistic_shortname>
+									<statistic_value>38.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>84.574</statistics_percentage_valid>
+								<statistics_number_valid>7429</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>29.710</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="2005">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>94.521</statistics_percentage_valid>
+								<statistics_number_valid>345</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>16.547</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>19.592</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>42.033</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>55.597</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>88.647</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>36th highest value</statistic_name>
+									<statistic_shortname>Max36</statistic_shortname>
+									<statistic_value>31.899</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>8th highest value</statistic_name>
+									<statistic_shortname>Max8</statistic_shortname>
+									<statistic_value>55.597</statistic_value>
+								</statistic_result>
+							</statistic_set>
+							<statistic_set type="Exceedances">
+								<statistics_percentage_valid>94.521</statistics_percentage_valid>
+								<statistics_number_valid>345</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>days with c &gt; 50 ug/m3</statistic_name>
+									<statistic_shortname>Days(c &gt; 50)</statistic_shortname>
+									<statistic_value>8.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>90.639</statistics_percentage_valid>
+								<statistics_number_valid>7940</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>19.562</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="2006">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>89.041</statistics_percentage_valid>
+								<statistics_number_valid>325</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>17.365</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>20.318</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>43.422</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>61.226</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>118.778</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>36th highest value</statistic_name>
+									<statistic_shortname>Max36</statistic_shortname>
+									<statistic_value>34.173</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>8th highest value</statistic_name>
+									<statistic_shortname>Max8</statistic_shortname>
+									<statistic_value>58.404</statistic_value>
+								</statistic_result>
+							</statistic_set>
+							<statistic_set type="Exceedances">
+								<statistics_percentage_valid>89.041</statistics_percentage_valid>
+								<statistics_number_valid>325</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>days with c &gt; 50 ug/m3</statistic_name>
+									<statistic_shortname>Days(c &gt; 50)</statistic_shortname>
+									<statistic_value>10.000</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>85.628</statistics_percentage_valid>
+								<statistics_number_valid>7501</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>20.243</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+				</measurement_configuration><measurement_configuration component="Particulate matter &lt; 2.5 µm (aerosol) - Beta ray attenuation">
+					<measurement_info>
+						<component_name>Particulate matter &lt; 2.5 µm (aerosol)</component_name>
+						<component_caption>PM2.5</component_caption>
+						<component_code>6001</component_code>
+						<component_FWD>yes</component_FWD>
+						<measurement_unit>ug/m3</measurement_unit>
+						<measurement_start_date>8-8-2002</measurement_start_date>
+						<measurement_latest_date_available_in_AIRBASE>31-12-2006</measurement_latest_date_available_in_AIRBASE>
+						<measurement_european_code>100</measurement_european_code>
+						<measurement_automatic>yes</measurement_automatic>
+						<measurement_technique_principle>Beta ray attenuation</measurement_technique_principle>
+						<measurement_equipment>FAG</measurement_equipment>
+						<integration_time_frequency>30</integration_time_frequency>
+						<height_sampling_point>4</height_sampling_point>
+						<length_sampling_line>0</length_sampling_line>
+						<location_sampling_point>park</location_sampling_point>
+						<sampling_time>1</sampling_time>
+						<sampling_time_unit>minute</sampling_time_unit>
+						<integration_time_unit>minute</integration_time_unit>
+						<calibration_method>unknown</calibration_method>
+						<body_or_programme>EU EoI</body_or_programme>
+					</measurement_info>
+					<data_set>
+						<data_type value="day">
+							<start_date>1-1-2002</start_date>
+							<end_date>31-12-2006</end_date>
+							<data_file>IS0006A0600100100day.1-1-2002.31-12-2006</data_file>
+						</data_type>
+						<data_type value="hour">
+							<start_date>8-8-2002</start_date>
+							<end_date>31-12-2006</end_date>
+							<data_file>IS0006A0600100100hour.8-8-2002.31-12-2006</data_file>
+						</data_type>
+					</data_set>
+					<statistics Year="2002">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>39.726</statistics_percentage_valid>
+								<statistics_number_valid>145</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>5.917</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>7.101</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>12.350</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>30.200</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>47.707</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>37.968</statistics_percentage_valid>
+								<statistics_number_valid>3326</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>4.700</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>7.101</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>20.200</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>29.800</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>191.800</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="2003">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>99.178</statistics_percentage_valid>
+								<statistics_number_valid>362</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>6.380</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>7.566</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>15.548</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>21.954</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>41.060</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>99.486</statistics_percentage_valid>
+								<statistics_number_valid>8715</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>5.050</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>7.558</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>22.320</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>31.400</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>670.050</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="2004">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>99.180</statistics_percentage_valid>
+								<statistics_number_valid>363</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>7.424</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>9.481</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>23.240</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>33.355</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>64.919</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>93.021</statistics_percentage_valid>
+								<statistics_number_valid>8171</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>5.750</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>9.498</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>28.150</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>44.600</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>341.700</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="2005">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>98.904</statistics_percentage_valid>
+								<statistics_number_valid>361</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>6.117</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>7.699</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>15.518</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>21.402</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>97.483</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>98.973</statistics_percentage_valid>
+								<statistics_number_valid>8670</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>4.975</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>7.695</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>21.500</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>31.575</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>682.750</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+					<statistics Year="2006">
+						<statistics_average_group value="day">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>53.425</statistics_percentage_valid>
+								<statistics_number_valid>195</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>6.325</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>9.326</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>24.558</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>37.367</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>80.338</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+						<statistics_average_group value="hour">
+							<statistics_period>Calendar year</statistics_period>
+							<statistic_set type="General">
+								<statistics_percentage_valid>53.779</statistics_percentage_valid>
+								<statistics_number_valid>4711</statistics_number_valid>
+								<statistics_calculated>Y</statistics_calculated>
+								<statistic_result>
+									<statistic_name>50 percentile</statistic_name>
+									<statistic_shortname>P50</statistic_shortname>
+									<statistic_value>5.200</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>annual mean</statistic_name>
+									<statistic_shortname>Mean</statistic_shortname>
+									<statistic_value>9.322</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>95 percentile</statistic_name>
+									<statistic_shortname>P95</statistic_shortname>
+									<statistic_value>29.800</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>98 percentile</statistic_name>
+									<statistic_shortname>P98</statistic_shortname>
+									<statistic_value>49.600</statistic_value>
+								</statistic_result>
+								<statistic_result>
+									<statistic_name>maximum</statistic_name>
+									<statistic_shortname>Max</statistic_shortname>
+									<statistic_value>255.900</statistic_value>
+								</statistic_result>
+							</statistic_set>
+						</statistics_average_group>
+					</statistics>
+				</measurement_configuration>
