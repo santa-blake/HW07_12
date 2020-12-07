@@ -1,5 +1,3 @@
-import org.json4s.Xml.toJson
-import org.json4s.jackson.JsonMethods.{pretty, render}
 
 import scala.xml.XML.loadFile
 
@@ -19,14 +17,25 @@ object UsingXML_Sl_measurements extends App {
 //  val stationHusdyrargardurinn = allStationIS.filter { _ \\ "@Id" exists (_.text == "IS0006A:Husdyragardurinn")}
 
   val stationAkureyriAllMeasurement = stationAkureyri \\ "measurement_configuration"
-  val stAkureyriAllMeasurementjson = toJson(stationAkureyriAllMeasurement)
-  val j = pretty(render(stAkureyriAllMeasurementjson))
-println(j)
+  val stationAkureyriAllMeasurementInfo = stationAkureyri \\ "measurement_info"
 
-  val component_name = stationAkureyri \\ "measurement_configuration" \\ "component_name"
-  val component_caption = stationAkureyri \\ "measurement_configuration" \\ "component_caption"
-  val measurement_unit = stationAkureyri \\ "measurement_configuration" \\ "measurement_unit"
-  val measurement_technique_principle = stationAkureyri \\ "measurement_configuration" \\ "measurement_technique_principle"
+  // save("./src/resources/IS_stationAk_measurements.xml", <root> {stationAkureyriAllMeasurement}</root>, xmlDecl = true)
+
+//  val pw2 = new PrintWriter(new File( "./src/resources/Akureyri_All_Measurement.json"))
+//  pw2.write(write(stationAkureyriAllMeasurement, "./src/resources/Akureyri_All_Measurement1.json"))
+
+
+  //val jsonAkureyri = toJson(stationAkureyriAllMeasurement)
+
+
+        //  val stAkureyriAllMeasurementjson = toJson(stationAkureyriAllMeasurement)
+        //  val j = pretty(render(stAkureyriAllMeasurementjson))
+        //println(j)
+        //
+        //  val component_name = stationAkureyri \\ "measurement_configuration" \\ "component_name"
+        //  val component_caption = stationAkureyri \\ "measurement_configuration" \\ "component_caption"
+        //  val measurement_unit = stationAkureyri \\ "measurement_configuration" \\ "measurement_unit"
+        //  val measurement_technique_principle = stationAkureyri \\ "measurement_configuration" \\ "measurement_technique_principle"
 //  val stationAkureyriAllMeasurement = stationAkureyri \\ "measurement_configuration" \\ "
 //  val stationAkureyriAllMeasurement = stationAkureyri \\ "measurement_configuration" \\ "
 

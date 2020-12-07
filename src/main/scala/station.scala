@@ -26,15 +26,4 @@ abstract class station {
   val meteorological_parameter: String
 
   override def toString = s" $station_european_code $station_local_code in $station_name."
-
-
-//  def getAuthorSeq() =
-//    for (author <- authors) yield <author>{author}</author>
-//
-//  def toXML = <book category="children">
-//    <title lang="en">{title}</title>
-//    {getAuthorSeq()}
-//    <year>{year}</year>
-//    <price>{price}</price>
-//  </book>
 }

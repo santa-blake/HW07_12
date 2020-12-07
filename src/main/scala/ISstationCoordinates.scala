@@ -1,6 +1,6 @@
 import scala.xml.XML.loadFile
 
-object stationCoordinates {
+object ISstationCoordinates {
 
     val airbase = loadFile("./src/resources/IS_meta.xml")
     val allStationIS = airbase \ "country" \ "network" \ "station"
@@ -22,16 +22,7 @@ object stationCoordinates {
 
     //  val SAkLatitude = (stationAkureyri \\ "station_latitude_decimal_degrees").text
     //  val SAkLongitude = (stationAkureyri \\ "station_longitude_decimal_degrees").text
-    //  val SAkLatitude = (stationAkureyri \\ "station_latitude_decimal_degrees").text
-    //  val SAkLongitude = (stationAkureyri \\ "station_longitude_decimal_degrees").text
-    //  val SAkLatitude = (stationAkureyri \\ "station_latitude_decimal_degrees").text
-    //  val SAkLongitude = (stationAkureyri \\ "station_longitude_decimal_degrees").text
-    //  val SAkLatitude = (stationAkureyri \\ "station_latitude_decimal_degrees").text
-    //  val SAkLongitude = (stationAkureyri \\ "station_longitude_decimal_degrees").text
-    //  val SAkLatitude = (stationAkureyri \\ "station_latitude_decimal_degrees").text
-    //  val SAkLongitude = (stationAkureyri \\ "station_longitude_decimal_degrees").text
-    //  val SAkLatitude = (stationAkureyri \\ "station_latitude_decimal_degrees").text
-    //  val SAkLongitude = (stationAkureyri \\ "station_longitude_decimal_degrees").text
+   // ......
 
 
   def FindPoint(x1: Double, y1: Double, x2: Double, y2: Double, x: Double, y: Double): Boolean = {
@@ -39,7 +30,7 @@ object stationCoordinates {
       false
     }
 
-  // ICELAND coordinates extent (Wikipedia):
+  // ICELAND extent geo-coordinates  (Wikipedia):
       //North: Kolbeinsey, 67°08,9 N
       //South: Surtsey, 63°17,7 N
       //West: Bjargtangar, 24°32′1" W

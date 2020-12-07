@@ -7,13 +7,14 @@
 //
 //import com.fasterxml.jackson.databind.ObjectMapper
 //  //import org.codehaus.jackson.map.ObjectMapper
+
 //  //import org.codehaus.jackson.
 //
 //type.TypeReference
 //
 //import com.google.common.collect.ImmutableMap
 //
-//object meta_file extends App {
+
 //    def main(args: Array[String]): Unit = {
 //      try {
 //        val mapper = new ObjectMapper

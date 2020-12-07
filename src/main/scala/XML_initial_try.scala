@@ -1,7 +1,7 @@
 import scala.xml.XML.loadFile
 import scala.xml.{Node, NodeSeq}
 
-object UsingXML_S extends App {
+object XML_initial_try extends App {
 
   val airbase = loadFile("./src/resources/IS_meta.xml")
   //  println(airbase)
